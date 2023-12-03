@@ -1,4 +1,4 @@
-//headers for omplementation of class client
+//headers for implementation of class client
 #include "book.cpp"
 #include<vector>
 
